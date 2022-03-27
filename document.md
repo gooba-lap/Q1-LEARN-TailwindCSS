@@ -12,4 +12,13 @@ npx tailwindcss init -p
 yarn add react-icons
 ```
 
-## 
+## start
+
+```bash
+yarn start
+```
+
+## document
+
+https://tailwindcss.com/docs/guides/create-react-app
+- Install tailwindCss for react
